@@ -156,6 +156,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Bitcoin Embassy](https://www.youtube.com/user/JellyBaby68/videos)
 * [Bitcoin Foundation](https://www.youtube.com/user/BitcoinFoundation/videos)
 * [Bitcoin Wednesday](https://www.youtube.com/channel/UCt-Po2gFQxiUngwJXh6s04w/videos)
+* [Blockchain Education Network](https://www.youtube.com/channel/UCqXWbSa-uiA0BVk2r5qTejg)
 * [Blockchain University](https://www.youtube.com/channel/UCJ5uHx90mZGlK0lC-GSmtzw/videos)
 * [Blockstack](https://www.youtube.com/channel/UC3J2iHnyt2JtOvtGVf_jpHQ)
 * [Bruce Fenton First Mover](https://www.youtube.com/user/BruceFenton/videos)
